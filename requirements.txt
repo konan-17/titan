@@ -1,0 +1,6 @@
+discord
+pnwkit
+aiosqlite
+python-dotenv
+Flask
+python-dateutil
